@@ -2,7 +2,7 @@
 
 **What sells, and where?** An end-to-end analysis of 64,000+ video game sales records: data cleaning in Python, analysis of four business questions, and an interactive Tableau dashboard.
 
-![Dashboard](vgs%dashboard.png)
+![Dashboard](dashboard.png)
 
 🔗 **[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/VideoGameSalesAnalysis1977-2018/VideoGameSalesDashboard)**
 
